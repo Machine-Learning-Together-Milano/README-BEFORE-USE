@@ -35,5 +35,5 @@ git push -u origin master
 If you have difficulties, see this video:
 https://www.youtube.com/watch?v=iv8rSLsi1xo : for total GitHub begginner 
 https://www.youtube.com/watch?v=rgbCcBNZcdQ : for pull requestes
-
+https://www.youtube.com/watch?v=RGOj5yH7evk : for a total guide of GitHub
 
